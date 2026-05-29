@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+network_history.db
+network_audit_report.pdf
+network_topology.png
+network_mapper.log
+soc_log.txt
+traffic.pcap
+traffic.csv

@@ -1,0 +1,6 @@
+Flask
+python-nmap
+networkx
+matplotlib
+requests
+reportlab
